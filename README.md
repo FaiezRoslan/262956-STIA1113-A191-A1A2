@@ -10,11 +10,11 @@ This assigment are all about how to write and run a java program. This assignmen
 
 
 # Pseudocode
-
+https://github.com/FaiezRoslan/262956-STIA1113-A191-A1A2/issues/1
 	
 	
 # Flowchart
-  
+  https://github.com/FaiezRoslan/262956-STIA1113-A191-A1A2/issues/2
   
   
   
